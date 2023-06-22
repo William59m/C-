@@ -9,4 +9,4 @@ Projeto consiste em uma criação de uma matrix e a busca de seus valores.
    - 3° Final da última linha, selecione o valor que deseja obter.
    - 4° Será apresentado em qual posição está esse valor.
    
-   ![Screenshot](Matrix.png)
+   ![Alt text](Matrix\Matrix.png?raw=true "Matrix")
